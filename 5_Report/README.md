@@ -9,3 +9,6 @@
 ## when temperature rises above 25 deg,PWM signal will be 0(low).
 ## All this opeartion is automatic and also temperature range is transmitted to serial output
 # ![image](https://user-images.githubusercontent.com/101429540/164722898-6ba1bcd9-5395-4d1a-a1ca-50486cc86e40.png)
+#
+#![image](https://user-images.githubusercontent.com/101429540/164723130-a4f9ecca-5632-4129-be51-9675155036bb.png)
+
